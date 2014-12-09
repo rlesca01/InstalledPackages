@@ -1,0 +1,4 @@
+InstalledPackages
+=================
+
+Installed R packages
